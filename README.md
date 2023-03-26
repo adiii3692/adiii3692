@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- ⚡ Fun fact :- Anime, Manga and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Vegito Solos
 
 <br>
 
