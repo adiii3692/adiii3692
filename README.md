@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aditya Nair</h1>
-<h3 align="center">Student at North Toronto Collegiate Institute🌟.</h3>
+<h3 align="center">Student at University of Waterloo🌟.</h3>
 
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adi" /></p>
 
 
-- 🌱 I’m currently learning Web Development and React 
+- 🌱 I’m currently learning the PERN stack and low-level programming in C
 
 <br>
 
