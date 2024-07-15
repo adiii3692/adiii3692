@@ -34,7 +34,7 @@
       height="40" /> </a> <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40"
       height="40" /></a><a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="react" width="40"
       height="40" /></a>
-    //npm
+    [//]: # (npm)
     <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="react" width="40"
       height="40" /></a>
 </p>
