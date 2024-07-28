@@ -48,6 +48,8 @@
       height="40" /></a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40"
       height="40" /></a>
+    <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" width="40"
+      height="40" /></a>
 </p>
 
 <br>
