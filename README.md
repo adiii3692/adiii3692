@@ -56,6 +56,8 @@
       height="40" /></a>
     <a href="https://www.prisma.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="prisma" width="40"
       height="40" /></a>
+    <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40"
+      height="40" /></a>
 </p>
 
 <br>
