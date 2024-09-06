@@ -58,6 +58,8 @@
       height="40" /></a>
     <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40"
       height="40" /></a>
+    <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="40"
+      height="40" /></a>
 </p>
 
 <br>
