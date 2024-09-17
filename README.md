@@ -79,4 +79,4 @@
 
 <br>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adiii3692" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adiii3692&theme=dark)](https://git.io/streak-stats)
