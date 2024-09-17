@@ -79,4 +79,4 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=adiii3692)]
+![GitHub Streak](https://streak-stats.demolab.com/?user=adiii3692)
