@@ -66,6 +66,8 @@
       height="40" /></a>
     <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="cypress" width="40"
       height="40" /></a>
+    <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" width="40"
+      height="40" /></a>
 </p>
 
 <br>
