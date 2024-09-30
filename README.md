@@ -64,6 +64,8 @@
       height="40" /></a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40"
       height="40" /></a>
+    <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="cypress" width="40"
+      height="40" /></a>
 </p>
 
 <br>
