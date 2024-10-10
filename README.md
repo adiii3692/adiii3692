@@ -84,5 +84,3 @@
     alt="adiii3692" /></p>
 
 <br>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=adiii3692)
