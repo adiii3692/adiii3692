@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Nair</h1>
 <h3 align="center">Student at The University of Waterloo🌟</h3>
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adi" /></p>
@@ -72,6 +74,8 @@
       height="40" /></a>
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40"
       height="40" /></a>
+    <i class="devicon-express-original"></i>
+          
 </p>
 
 <br>
