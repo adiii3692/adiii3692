@@ -72,7 +72,7 @@
       height="40" /></a>
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40"
       height="40" /></a>
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tawilwind,sass,c,cpp,cs,python,java,react,node,express,npm,mongodb,mysql,postgresql,sqlserver,typescript,git,bash,nextjs,threejs,docker,kubernetes,vim,linux,cypress,jest,dotnet" />
           
 </p>
 
