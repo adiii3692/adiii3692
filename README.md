@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Devops and low-level programming in C
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" max-width="40">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,c,cpp,cs,python,java,spring,react,nodejs,express,npm,mongodb,mysql,postgresql,sqlite,typescript,git,bash,nextjs,threejs,docker,kubernetes,vim,linux,cypress,jest,dotnet,postman,prisma" />
 </p>
 
