@@ -72,7 +72,7 @@
       height="40" /></a>
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40"
       height="40" /></a>
-    [(https://skillicons.dev/icons?i=js,html,css,wasm)]
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
           
 </p>
 
