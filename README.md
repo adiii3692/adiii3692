@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Nair</h1>
-<h3 align="center">Student at The University of Waterloo🌟</h3>
+<h3 align="center">Computer Eng @ The University of Waterloo🌟</h3>
           
 <br>
 
