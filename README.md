@@ -10,7 +10,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,c,cpp,cs,python,java,react,nodejs,express,npm,django,flask,mongodb,mysql,postgresql,sqlite,typescript,git,bash,nextjs,threejs,linux,arch,ubuntu,debian,cypress,jest,dotnet,postman,prisma,arduino,raspberrypi,jenkins,githubactions,docker,kubernetes,aws,azure&theme=light" width="60%"/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,typescript,react,nodejs,express,npm,nextjs,threejs,mongodb,mysql,postgresql,sqlite,prisma,c,cpp,cs,dotnet,python,django,flask,java,maven,spring,git,bash,linux,arch,ubuntu,debian,cypress,jest,postman,arduino,raspberrypi,jenkins,githubactions,docker,kubernetes,aws,azure&theme=light" width="60%"/>
 </p>
 
 <br>
