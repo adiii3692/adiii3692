@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Nair</h1>
+
+---
+
 <img align="center" src="https://github.com/user-attachments/assets/1a921060-1776-479f-80c5-0ec0e02d198a" alt="adi"/>
 
 ---
@@ -41,7 +44,7 @@
   <b>DevOps:</b><br>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=jest,cypress,azure,aws,docker,kubernetes,jenkins&theme=light" />
+      <img src="https://skillicons.dev/icons?i=maven,jest,cypress,azure,aws,docker,kubernetes,jenkins&theme=light" />
     </a>
   </p>
   
@@ -57,11 +60,9 @@
 ---
 
 <h3>Statistical Data:</h3>
-<p><img align="center"
+<p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=adiii3692&show_icons=true&locale=en&layout=compact"
     alt="adiii3692"/></p>
 
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adiii3692&show_icons=true&repo=convoychat"
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=adiii3692&show_icons=true&repo=convoychat"
     alt="adiii3692" /></p>
