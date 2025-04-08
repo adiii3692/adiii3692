@@ -56,10 +56,12 @@
 </p>
 
 ---
-
-<img align="left"
+<div style="display: flex; flex-direction: column;">
+  <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=adiii3692&show_icons=true&locale=en&layout=compact"
     alt="adiii3692"/>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=adiii3692&show_icons=true&repo=convoychat"
+  <img src="https://github-readme-stats.vercel.app/api?username=adiii3692&show_icons=true&repo=convoychat"
     alt="adiii3692" />
+</div>
+
+
