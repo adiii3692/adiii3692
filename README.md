@@ -3,7 +3,7 @@
           
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adi" width="35%" height="50%"/></p>
+<p><img align="right" src="https://github.com/user-attachments/assets/1a921060-1776-479f-80c5-0ec0e02d198a" alt="adi" width="35%" height="50%"/></p>
 
 <br>
 - 🌱 I’m currently learning Devops and low-level programming in C
