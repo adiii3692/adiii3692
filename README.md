@@ -1,9 +1,6 @@
+<p><img align="right" src="https://github.com/user-attachments/assets/1a921060-1776-479f-80c5-0ec0e02d198a" alt="adi" width="100%" height="50%"/></p>
 <h1 align="center">Hi 👋, I'm Aditya Nair</h1>
 <h3 align="center">Computer Eng @ The University of Waterloo🌟</h3>
-          
-<br>
-
-<p><img align="right" src="https://github.com/user-attachments/assets/1a921060-1776-479f-80c5-0ec0e02d198a" alt="adi" width="35%" height="50%"/></p>
 
 <br>
 - 🌱 I’m currently learning Devops and low-level programming in C
