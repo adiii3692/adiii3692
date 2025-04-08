@@ -11,9 +11,6 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,typescript,react,nodejs,express,npm,nextjs,threejs,mongodb,mysql,postgresql,sqlite,prisma,c,cpp,cs,dotnet,python,django,flask,java,maven,spring,git,bash,linux,arch,ubuntu,debian,cypress,jest,postman,arduino,raspberrypi,jenkins,githubactions,docker,kubernetes,aws,azure&theme=light" width="60%"/>
-</p>
 
 <p align="left">
 <!--   Core Programming Languages -->
