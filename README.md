@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditya Nair</h1>
-<img align="center" src="https://github.com/user-attachments/assets/1a921060-1776-479f-80c5-0ec0e02d198a" alt="adi" width="80%" height="10%"/>
-<h3 align="center">Computer Eng @ The University of Waterloo🌟</h3>
+<img align="center" src="https://github.com/user-attachments/assets/1a921060-1776-479f-80c5-0ec0e02d198a" alt="adi"/>
 
 <br>
+- 👨‍💻 I'm a Computer Eng Student @ The University Of Waterloo
 - 🌱 I’m currently learning Devops and low-level programming in C
+- 🌐 Check out my portfolio! [https://adiii3692.is-a.dev/](https://adiii3692.is-a.dev/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
