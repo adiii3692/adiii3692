@@ -42,7 +42,7 @@
   <b>DevOps:</b><br>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=maven,jest,cypress,azure,aws,docker,kubernetes,jenkins&theme=light" />
+      <img src="https://skillicons.dev/icons?i=selenium,jest,cypress,maven,azure,aws,docker,kubernetes,jenkins&theme=light" />
     </a>
   </p>
   
@@ -50,7 +50,7 @@
   <b>Dev Tools:</b><br>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,visualstudio,figma,postman,linux,ubuntu&theme=light" />
+      <img src="https://skillicons.dev/icons?i=git,github,visualstudio,eclipse,figma,postman,linux,ubuntu&theme=light" />
     </a>
   </p>
 </p>
