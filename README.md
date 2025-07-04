@@ -6,7 +6,7 @@
 
 ### About Me:
 - 👨‍💻 I'm a Computer Eng Student @ The University Of Waterloo
-- 🌱 I’m currently learning Devops and low-level programming in C
+- 🌱 I’m currently learning data analysis and predictive modeling
 - 🌐 Check out my portfolio! [https://adiii3692.is-a.dev/](https://adiii3692.is-a.dev/)
 
 ---
