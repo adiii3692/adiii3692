@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Nair</h1>
 
-<img align="center" src="https://github.com/user-attachments/assets/1a921060-1776-479f-80c5-0ec0e02d198a" alt="adi"/>
+<img align="center" src="https://github.com/user-attachments/assets/fba07901-637b-467f-be87-0e8ba0c91ee4" alt="adi"/>
 
 ---
 
