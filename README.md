@@ -26,7 +26,7 @@
   <b>Web Frameworks:</b><br>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,expressjs,react,next,threejs,django,flask,dotnet,spring&theme=light" />
+      <img src="https://skillicons.dev/icons?i=nodejs,expressjs,react,angular,next,threejs,django,flask,dotnet,spring&theme=light" />
     </a>
   </p>
 
