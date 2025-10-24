@@ -59,9 +59,7 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adiii3692&show_icons=true&locale=en&layout=compact&title_font=bold"
-    alt="adiii3692"/></p>
-
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=adiii3692&show_icons=true&locale=en&layout=compact&title_font=bold"/></p>
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adiii3692&show_icons=true&locale=en&repo=convoychat"
