@@ -22,11 +22,11 @@
     </a>
   </p>
 
-  <!-- Web Frameworks -->
-  <b>Web Frameworks:</b><br>
+  <!-- Frameworks -->
+  <b>Frameworks:</b><br>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,expressjs,react,angular,next,threejs,django,flask,dotnet,spring&theme=light" />
+      <img src="https://skillicons.dev/icons?i=nodejs,expressjs,react,angular,next,threejs,django,flask,dotnet,spring,kotlin&theme=light" />
     </a>
   </p>
 
@@ -50,7 +50,7 @@
   <b>Dev Tools:</b><br>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,visualstudio,eclipse,figma,postman,linux,ubuntu&theme=light" />
+      <img src="https://skillicons.dev/icons?i=git,github,visualstudio,eclipse,idea,figma,postman,linux,ubuntu&theme=light" />
     </a>
   </p>
 </p>
