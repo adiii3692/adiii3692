@@ -6,7 +6,7 @@
 
 ### About Me:
 - 👨‍💻 I'm a Computer Eng Student @ The University Of Waterloo
-- 🌱 I’m currently learning data analysis and predictive modeling
+- 🌱 I’m currently learning how to build secure fintech systems using Kotlin, Spring Boot, and cloud infrastructure
 - 🌐 Check out my portfolio! [https://adiii3692.is-a.dev/](https://adiii3692.is-a.dev/)
 
 ---
