@@ -26,7 +26,7 @@
   <b>Frameworks:</b><br>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,expressjs,react,angular,next,threejs,django,flask,dotnet,spring,kotlin&theme=light" />
+      <img src="https://skillicons.dev/icons?i=nodejs,expressjs,react,angular,next,django,flask,dotnet,spring,kotlin&theme=light" />
     </a>
   </p>
 
